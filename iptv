@@ -1,4 +1,4 @@
-#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://www.transtv.co.id/livetv/anytv/INDOSIAR_live_streaming_tv.jpg", INDOSIAR 
+#EXTINF:-0 group-title="NASIONAL" tvg-logo="https://www.transtv.co.id/livetv/anytv/INDOSIAR_live_streaming_tv.jpg", INDOSIAR 
 http://210.210.155.35/session/9ec7c73c-099b-11ea-aff4-b82a72d63267/qwr9ew/s/s04/01.m3u8
 
 
@@ -45,15 +45,15 @@ https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008/srtoutput/ma
 http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
 
 #EXTINF:-0, SCTV
-#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1200px-SCTV_Logo.svg.png",SCTV
+#EXTINF:-0 group-title="NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1200px-SCTV_Logo.svg.png",SCTV
 http://45.126.83.51/qwr9ew/s/s03/01.m3u8
 
 #EXTINF:-0, Net TV
-#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://www.transtv.co.id/livetv/anytv/NET_TV_live_streaming_tv.jpg", NET TV 
+#EXTINF:-0 group-title="NASIONAL" tvg-logo="https://www.transtv.co.id/livetv/anytv/NET_TV_live_streaming_tv.jpg", NET TV 
 http://45.126.83.51/qwr9ew/s/s08/01.m3u8
 
 #EXTINF:-0, TransTV
-#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://www.transtv.co.id/livetv/anytv/KOMPAS_TV_live_streaming_tv.jpg",KompasTV
+#EXTINF:-0 group-title="NASIONAL" tvg-logo="https://www.transtv.co.id/livetv/anytv/KOMPAS_TV_live_streaming_tv.jpg",KompasTV
 http://210.210.155.35/qwr9ew/s/s104/index.m3u8 
 
 
