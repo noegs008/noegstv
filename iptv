@@ -215,6 +215,33 @@ https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/ind
 #EXTVLCOPT:network-caching=1000
 https://lingkartv.my.id/hls/lingkartv.m3u8
 
+=================new================
+#EXTINF:-1,group-title="LOKAL"MNCTV http://id6.indostreamingtv.com/live/mnctv/index.m3u8
+http://id6.indostreamingtv.com/live/mnctv/index.m3u8
+#EXTINF:-1,group-title="LOKAL"GLOBALTV http://id6.indostreamingtv.com/live/tv1/index.m3u8
+http://id6.indostreamingtv.com/live/tv1/index.m3u8
+#EXTINF:-1,group-title="LOKAL"RCTI http://id6.indostreamingtv.com/live/rcti/index.m3u8
+http://id6.indostreamingtv.com/live/rcti/index.m3u8
+#EXTINF:-1,group-title="LOKAL"TRANS7 http://id2.indostreamingtv.com/live/trans7/index.m3u8
+http://id2.indostreamingtv.com/live/trans7/index.m3u8
+#EXTINF:-1,group-title="LOKAL"TVONE https://cdn-livetv1.metube.id/hls/tvone_240/index.m3u8
+https://cdn-livetv1.metube.id/hls/tvone_240/index.m3u8
+#EXTINF:-1,group-title="LOKAL"METROTV http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w391596422_b1492000_sleng.m3u8
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w391596422_b1492000_sleng.m3u8
+#EXTINF:-1,group-title="LOKAL"INEWSTV https://cdn-livetv5.metube.id/hls/inewstv_240/index.m3u8
+https://cdn-livetv5.metube.id/hls/inewstv_240/index.m3u8
+#EXTINF:-1,group-title="LOKAL"RTV http://210.210.155.35/session/0c55f20a-0998-11ea-875c-b82a72d63267/qwr9ew/s/s12/01.m3u8
+http://210.210.155.35/session/0c55f20a-0998-11ea-875c-b82a72d63267/qwr9ew/s/s12/01.m3u8
+#EXTINF:-1,group-title="LOKAL"CNN TV https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1299546647_b384000_sleng.m3u8
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1299546647_b384000_sleng.m3u8
+#EXTINF:-1,group-title="LOKAL"INDOSIAR http://210.210.155.35/session/9ec7c73c-099b-11ea-aff4-b82a72d63267/qwr9ew/s/s04/01.m3u8
+http://210.210.155.35/session/9ec7c73c-099b-11ea-aff4-b82a72d63267/qwr9ew/s/s04/01.m3u8
+#EXTINF:-1,group-title="LOKAL"SCTV https://cdn-livetv1.metube.id/hls/sctv_480/index.m3u8
+https://cdn-livetv1.metube.id/hls/sctv_480/index.m3u8
+#EXTINF:-1,group-title="LOKAL"TVRI https://cdn-livetv1.metube.id/hls/tvri_480/index.m3u8
+https://cdn-livetv1.metube.id/hls/tvri_480/index.m3u8
+#EXTINF:-1,group-title="LOKAL"MNCSPORT https://cdn-livetv1.metube.id/hls/mncsport_240/index.m3u8
+https://cdn-livetv1.metube.id/hls/mncsport_240/index.m3u8
 
 
 
