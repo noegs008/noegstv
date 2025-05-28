@@ -58,6 +58,13 @@ http://45.126.83.51/qwr9ew/s/s08/01.m3u8
 #EXTINF:-0 group-title="NASIONAL" tvg-logo="https://www.transtv.co.id/livetv/anytv/KOMPAS_TV_live_streaming_tv.jpg",KompasTV
 http://210.210.155.35/qwr9ew/s/s104/index.m3u8 
 
+#EXTINF:-1 group-title="test",RCTI
+http://103.167.167.5:8111/play/a01c/index.m3u8
+#EXTINF:-1 group-title="test",mnctv
+http://103.167.167.5:8111/play/a011/index.m3u8
+#EXTINF:-1 group-title="test",gtv
+http://103.167.167.5:8111/play/a014/index.m3u8
+
 
 
 
