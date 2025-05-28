@@ -215,7 +215,6 @@ https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/ind
 #EXTVLCOPT:network-caching=1000
 https://lingkartv.my.id/hls/lingkartv.m3u8
 
-=================new================
 #EXTINF:-1,group-title="LOKAL"MNCTV http://id6.indostreamingtv.com/live/mnctv/index.m3u8
 http://id6.indostreamingtv.com/live/mnctv/index.m3u8
 #EXTINF:-1,group-title="LOKAL"GLOBALTV http://id6.indostreamingtv.com/live/tv1/index.m3u8
