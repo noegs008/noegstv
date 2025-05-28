@@ -58,6 +58,7 @@ http://45.126.83.51/qwr9ew/s/s08/01.m3u8
 #EXTINF:-0 group-title="NASIONAL" tvg-logo="https://www.transtv.co.id/livetv/anytv/KOMPAS_TV_live_streaming_tv.jpg",KompasTV
 http://210.210.155.35/qwr9ew/s/s104/index.m3u8 
 
+
 #EXTINF:-1 group-title="test",RCTI
 http://103.167.167.5:8111/play/a01c/index.m3u8
 #EXTINF:-1 group-title="test",mnctv
@@ -105,6 +106,19 @@ http://id1.indostreamingtv.com/live/tv444/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Local",NETTV
 https://youtu.be/F2oDhhbDXIg
+
+#EXTINF:-1 tvg-id="MET.ID" tvg-logo="https://www.interindo.com/assets/img/MetroTV_Logo_2010.png" group-title="Indonesia",Metro
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
+#EXTINF:-1 tvg-id="MNC.ID" tvg-id="" tvg-logo="https://static.epg.best/id/MNCTV.id.png" group-title="Indonesia",MNC
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-id="RCT.ID" tvg-id="" tvg-logo="https://static.epg.best/id/RCTI.id.png" group-title="Indonesia",RCTI
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-id="SCT.ID" tvg-logo="https://www.sctv.co.id//assets/images/material/logo_sctv.png" group-title="Indonesia",SCTV
+https://cdn-livetv5.metube.id/hls/sctv_480/index.m3u8
+#EXTINF:-1 tvg-id="TRA.ID" tvg-logo="https://www.transtv.co.id/template/front/source/images/bg/logo.png" group-title="Indonesia",Trans TV
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TR7.ID" tvg-logo="https://www.trans7.co.id/assets/front/images/logo/logo-trans7@2x.png" group-title="Indonesia",Trans 7
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 
 
 
